@@ -1,0 +1,20 @@
+browser_history
+pyautogui
+# pynput
+pygetwindow
+getmac
+Pillow
+dhash
+requests
+imagehash
+paramiko
+pytz
+python-xlib
+cx_Freeze
+kivy
+psutil
+fastapi
+uvicorn
+peewee
+pyinstaller
+zeroconf
